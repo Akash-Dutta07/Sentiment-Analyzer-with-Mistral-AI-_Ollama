@@ -1,4 +1,5 @@
 # 🧠 Sentiment Analyzer with Mistral AI
+<img width="1024" height="400" alt="Image" src="https://github.com/user-attachments/assets/112d7fc6-4de6-4182-b722-459348eea44d" />
 
 A modern sentiment analysis application built with **FastAPI**, **Ollama**, and **Streamlit** that analyzes text sentiment using the Mistral AI model running locally.
 
@@ -161,26 +162,6 @@ mistral-sentiments/
 - **Memory Usage**: ~4-8GB RAM (depending on model)
 - **Concurrent Requests**: Supports multiple simultaneous analyses
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙋‍♂️ Support
-
-If you encounter any issues or have questions:
-
-1. Check the [troubleshooting section](#-troubleshooting)
-2. Review [Ollama documentation](https://ollama.ai/docs)
-3. Open an issue on GitHub
-
 ## 🔒 Privacy & Security
 
 - **🏠 Fully Offline**: No external API calls or internet connectivity required
@@ -188,15 +169,4 @@ If you encounter any issues or have questions:
 - **🛡️ Data Privacy**: Your text never leaves your local machine
 - **💰 Cost-Free**: No per-request charges or usage limits
 
-## 🎯 Future Enhancements
-
-- [ ] Batch text analysis
-- [ ] Sentiment confidence scores
-- [ ] Multiple AI model support (Llama, CodeLlama, etc.)
-- [ ] Export results to CSV
-- [ ] Docker containerization
-- [ ] Real-time streaming analysis
-
----
-
-**Built with ❤️ using FastAPI, Ollama, and Streamlit**
+**Built with using FastAPI, Ollama, and Streamlit**
