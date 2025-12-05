@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-#App Configuration
+#App Configurations
 st.set_page_config(
     page_title="Sentiment Analyzer",
     page_icon="🧠",
