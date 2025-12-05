@@ -10,7 +10,7 @@ A modern sentiment analysis application built with **FastAPI**, **Ollama**, and 
 - **⚡ Real-time Analysis**: Instant sentiment analysis with color-coded results
 - **🎨 Modern UI**: Clean, responsive Streamlit interface with custom styling
 - **🔌 REST API**: FastAPI backend with automatic documentation
-- **🛡️ Privacy First**: Zero external API calls - all data stays on your machine
+- **🛡️ Privacy First**: Zero external API calls - all data stays on your machine....
 
 ## 🏗️ Architecture
 
